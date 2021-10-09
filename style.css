@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(138, 183, 194, 0.4);
+    }
+
+
+.header_div{
+    background-color:hsl(183, 32%, 33%, 0.5);
+    color: whitesmoke;
+}
+
+.header_div h4{
+    font-family: 'Waiting for the Sunrise', cursive;
+    letter-spacing: 2px;
+    color:rgb(57, 70, 87);
+}
+
+.header_div h1{
+    font-family: 'Lobster Two', cursive;
+    font-size: 50px;
+}
+
+#startbtn{
+    margin-top: 30px;
+    width:15%;
+    font-weight: bold;
+    letter-spacing: 3px;
+    border-style: outset;
+    border-color: hsl(209, 90%, 82%);
+    background-color: #B5D3ED;
+    border-width: 5px;
+
+}
+
+#footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Quicksand', sans-serif;
+    background-color: whitesmoke;
+    font-size: 25px;
+    padding: 10px;
+    text-shadow: 2px 2px 8px black;
+
+
+}
